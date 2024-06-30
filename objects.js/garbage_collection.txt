@@ -1,0 +1,12 @@
+/*
+
+It is an important concept in JavaScript to manage memory efficiently.
+
+What does it do? It automatically deallocates memory, so we don't have to manage memory
+                 as we do in other languages.
+How does it work? The main goal of garbage collection is to identify
+                  memory that is no longer reachable or needed and free it up for future use.
+
+                  It handles this automatically using various algorithms.
+
+*/
