@@ -1,24 +1,24 @@
 # JavaScript Beginner's Guide
 
-This repository serves as a beginner's guide to JavaScript, following the freeCodeCamp.org course available [here](https://www.youtube.com/watch?v=Zi-Q0t4gMC8&t=8574s&ab_channel=freeCodeCamp.org). It covers fundamental concepts and practical examples to help you get started with JavaScript programming.
+This repository serves as a beginner's guide to JavaScript, following the freeCodeCamp.org course available [here](https://www.youtube.com/watch?v=Zi-Q0t4gMC8&t=8574s&ab_channel=freeCodeCamp.org){:target="_blank"}. It covers fundamental concepts and practical examples to help you get started with JavaScript programming. 🌟
 
 ![JavaScript Illustration](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
 
 ## Contents
 
-1. [Introduction](#introduction)
-2. [JavaScript Basics](#javascript-basics)
-3. [Variables and Data Types](#variables-and-data-types)
-4. [Control Structures](#control-structures)
-5. [Functions](#functions)
-6. [Objects and Arrays](#objects-and-arrays)
-7. [Strings and Template Literals](#strings-and-template-literals)
-8. [Date and Math](#date-and-math)
-9. [Getter and Setters](#getter-and-setters)
-10. [Rest and Spread Operators](#rest-and-spread-operators)
-11. [Scope and 'this' Keyword](#scope-and-this-keyword)
-12. [Error Handling](#error-handling)
-13. [Conclusion](#conclusion)
+1. [Introduction](#introduction) 🚀
+2. [JavaScript Basics](#javascript-basics) 📘
+3. [Variables and Data Types](#variables-and-data-types) 🔢
+4. [Control Structures](#control-structures) 🛠️
+5. [Functions](#functions) 🎯
+6. [Objects and Arrays](#objects-and-arrays) 🧩
+7. [Strings and Template Literals](#strings-and-template-literals) ✨
+8. [Date and Math](#date-and-math) 📅
+9. [Getter and Setters](#getter-and-setters) 🔐
+10. [Rest and Spread Operators](#rest-and-spread-operators) 🌐
+11. [Scope and 'this' Keyword](#scope-and-this-keyword) 🌍
+12. [Error Handling](#error-handling) ⚠️
+13. [Conclusion](#conclusion) 🎉
 
 ## Introduction
 
@@ -70,4 +70,4 @@ JavaScript provides mechanisms like `try-catch` blocks to handle runtime errors 
 
 ## Conclusion
 
-This guide aims to equip beginners with essential JavaScript knowledge to build a strong foundation for further learning and practical application.
+This guide aims to equip beginners with essential JavaScript knowledge to build a strong foundation for further learning and practical application. 🌐
