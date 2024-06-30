@@ -1,6 +1,6 @@
 # JavaScript Beginner's Guide
 
-This repository serves as a beginner's guide to JavaScript, following the freeCodeCamp.org course available [here](https://www.youtube.com/watch?v=Zi-Q0t4gMC8&t=8574s&ab_channel=freeCodeCamp.org){:target="_blank"}. It covers fundamental concepts and practical examples to help you get started with JavaScript programming. 🌟
+This repository serves as a beginner's guide to JavaScript, following the freeCodeCamp.org course available [here](https://www.youtube.com/watch?v=Zi-Q0t4gMC8&t=8574s&ab_channel=freeCodeCamp.org). It covers fundamental concepts and practical examples to help you get started with JavaScript programming. 🌟
 
 ![JavaScript Illustration](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
 
